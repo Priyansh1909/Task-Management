@@ -1,0 +1,2 @@
+git rm –cached -f .env
+backend/.env
