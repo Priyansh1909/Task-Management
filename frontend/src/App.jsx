@@ -1,6 +1,6 @@
 import './App.css'
 import {BrowserRouter, Route, Routes} from 'react-router-dom'
-import Header from './components/header'
+import Header from './components/Header'
 import Home from './components/Home'
 import Add_task from './components/Add_task'
 import Edit_task from './components/Edit_task'
