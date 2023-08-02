@@ -1,0 +1,68 @@
+
+#Home_Contianer{
+    margin-top: 4rem;
+  
+    min-height: 720px;
+    max-height: fit-content;
+
+}
+
+.Home_Header{
+    font-size: x-large;
+    text-align: center;
+
+
+}
+
+.all_task{
+    margin-top: 4rem;
+}
+
+.all_task div{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.task{
+    display: flex;
+    padding: 10px;
+    margin-left: 20rem;
+    margin-right: 20rem;
+    font-size: large;
+
+}
+
+.task_section1{
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px gray solid;
+    padding: 15px;
+}
+
+.task_buttons{
+    display: flex;
+}
+
+.task_buttons div{
+    padding:  0 10px ;
+}
+
+.task_btn{
+    border: none;
+    background-color: white;
+}
+
+.task_section2{
+    padding-top: 10px;
+}
+
+.completed_button {
+    text-align: end;
+}
+
+.completed_button button{
+    text-align: end;
+    background-color: rgb(110, 252, 110);
+    border: none;
+
+}

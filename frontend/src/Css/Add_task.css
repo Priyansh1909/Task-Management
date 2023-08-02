@@ -1,0 +1,23 @@
+
+
+
+.add_task_container{
+    margin-top: 4rem;
+  
+    min-height: 720px;
+    max-height: fit-content;
+    
+
+}
+
+.add_task_header{
+    text-align: center;
+    font-size: x-large;
+    padding-bottom: 10px;
+}
+
+
+
+p {
+    color: red;
+}
